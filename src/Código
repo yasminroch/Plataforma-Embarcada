@@ -1,0 +1,20 @@
+
+# Importa as classes necessárias do módulo "machine" do MicroPython
+from machine import Pin, PWM, ADC
+
+# Configura um pino como saída PWM (Pulse Width Modulation) com o número 15
+inputPwm = PWM(Pin(15))
+
+# Configura um pino como entrada analógica (ADC) com o número 26
+pinoAdc = ADC(Pin(26))
+
+# Define a frequência do sinal PWM para 1000 Hz (1 kHz)
+inputPwm.freq(1000)
+
+# Loop infinito para continuar executando o código indefinidamente
+while True:
+    # Lê o valor analógico (de 0 a 65535) do pino ADC
+    result = pinoAdc.read_u16()
+
+    # Define o duty cycle do sinal PWM com base no valor lido do pino ADC
+    inputPwm.duty_u16(result)
