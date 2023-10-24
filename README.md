@@ -94,3 +94,5 @@ Sendo assim, o projeto completo é este:
 ![](Aspose.Words.082bd49d-3ab8-4b67-94ac-849fbfb14d48.010.jpeg)
 
 O projeto demonstrou-se bem sucedido ao utilizar o Raspberry Pi Pico, potenciômetro e um LED, juntamente com a linguagem MicroPython, oferecendo controle adaptável de luminosidade. Sendo assim, permite que os usuários ajustem a intensidade da luz, fornecendo um ambiente propício para pessoas autistas com sensibilidade à luz. O projeto cria ambientes mais acolhedores e menos estressantes. A simplicidade da implementação torna o projeto acessível, destacando os detalhes do Raspberry Pi Pico e de outros componentes utilizados. Além de cumprir seu propósito técnico, o projeto tem um impacto social positivo, melhorando a qualidade de vida e exemplificando como a tecnologia pode ser inclusiva.
+
+Acesse o projeto [aqui](https://wokwi.com/projects/379412187720296449)
