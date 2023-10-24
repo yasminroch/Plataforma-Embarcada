@@ -2,9 +2,9 @@
 
 ## ESTUDO DE PLATAFORMA EMBARCADA: CONTROLE DE LUMINOSIDADE DO AMBIENTE PARA DIMINUIR A SENSIBILIDADE DE CRIANÇAS AUTISTAS(TEA) COM USO DE RASPBERRY PI PICO
 
-### Por: YASMIN VITÓRIA ROCHA DE JESUS
+#### Por: YASMIN VITÓRIA ROCHA DE JESUS
 
-O presente trabalho tem por objetivo identificar características, uso, compatibilidade de componentes e suas comunicações, além de envolver a simulação como demonstração do sistema e seu propósito que circundam o Raspberry Pi Pico W, disponível na plataforma de simulação Wokwi. Desse modo, utilizamos tais catalogações para entender como funcionará o processo de criação de um projeto base, que neste caso, será a possibilidade de controlar a luminosidade de lâmpadas de um ambiente para torná-lo propício para crianças autistas sensíveis a luz e que, consequentemente expressam estresse devido ao alto nível de luminosidade em diversos locais.
+O presente trabalho tem por objetivo identificar características, uso, compatibilidade de componentes e suas comunicações, além de envolver a simulação como demonstração do sistema e seu propósito que circundam o Raspberry Pi Pico, disponível na plataforma de simulação Wokwi. Desse modo, utilizamos tais catalogações para entender como funcionará o processo de criação de um projeto base, que neste caso, será a possibilidade de controlar a luminosidade de lâmpadas com potenciômetro a fim de tornar ambientes propícios para crianças autistas sensíveis a luz e que, consequentemente expressam estresse devido ao alto nível de luminosidade em diversos locais.
 
 ### **MANUAL DE REFERÊNCIA DO COMPONENTE**
  **Descrição do dispositivo**
